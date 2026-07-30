@@ -1,7 +1,7 @@
 {
   "name": "gmail500-proxy",
   "version": "1.0.0",
-  "description": "Gmail 500 API proxy for Vercel",
+  "description": "Gmail 500 API proxy",
   "dependencies": {
     "axios": "^1.6.0"
   }
